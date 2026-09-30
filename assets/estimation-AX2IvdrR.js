@@ -1,1 +1,0 @@
-import{r as e}from"./Ring-D8NFMbHK.js";import{t}from"./Estimation-DcO5_k-X.js";import{h as n}from"./index-CCCPghXk.js";var r=e();function i(){let e=n.useSearch();return(0,r.jsx)(`div`,{className:`pt-2`,children:(0,r.jsx)(t,{id:`estimation`,initial:e,titreNiveau:`h1`})})}export{i as component};
