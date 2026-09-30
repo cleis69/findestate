@@ -1,0 +1,1 @@
+import{N as e}from"./index-DXH2EClX.js";var t=e;export{t as component};
