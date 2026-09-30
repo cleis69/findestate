@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 160" width="120" height="160">
+  <path
+    d="M66.97 19.76 L104.19 71.86 Q110 80 104.19 88.14 L66.97 140.24 Q60 150 53.03 140.24 L15.81 88.14 Q10 80 15.81 71.86 L53.03 19.76 Q60 10 66.97 19.76 Z M60 27.4 a5.6 5.6 0 1 0 0 11.2 a5.6 5.6 0 1 0 0 -11.2 Z"
+    fill="#6D1A2A"
+    fill-rule="evenodd"
+  />
+  <text x="60" y="95" text-anchor="middle" font-family="Georgia, serif" font-weight="500" font-size="36" fill="#FAF9F7">FE</text>
+</svg>
