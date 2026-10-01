@@ -1,1 +1,0 @@
-import{P as e}from"./index-COGL3pSO.js";var t=e;export{t as component};

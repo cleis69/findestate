@@ -1,1 +1,0 @@
-import{H as e}from"./index-COGL3pSO.js";var t=e(`chevron-down`,[[`path`,{d:`m6 9 6 6 6-6`,key:`qrunsl`}]]);export{t};
