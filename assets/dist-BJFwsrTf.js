@@ -1,1 +1,0 @@
-import{o as e}from"./Ring-D8NFMbHK.js";import{W as t}from"./Button-2xi50Lar.js";var n=e(t(),1),r=Object.defineProperty,i=(e,t)=>r(e,`name`,{value:t,configurable:!0});function a(e){let t=n.useRef(e);return n.useEffect(()=>{t.current=e}),n.useMemo(()=>((...e)=>t.current?.(...e)),[])}i(a,`useCallbackRef`);export{a as t};
