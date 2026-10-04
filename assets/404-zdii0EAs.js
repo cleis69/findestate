@@ -1,1 +1,0 @@
-import{P as e}from"./index-3saxGIww.js";var t=e;export{t as component};
